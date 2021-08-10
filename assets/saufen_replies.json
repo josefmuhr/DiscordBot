@@ -1,0 +1,11 @@
+[
+    {
+        "template": "%s drink 2 shots",
+        "variableCount": 1
+    },
+    {
+        "template": "%s und %s exen",
+        "images" : 3 ,
+        "variableCount": 2
+    }
+]
